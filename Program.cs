@@ -83,6 +83,7 @@ namespace BreakBirds
             return Result.Ok;
         }
 
+        /*
         static Result ReadNumber(ref double a)
         {
             Console.WriteLine("Пожалуйста, введите число: ");
@@ -98,6 +99,7 @@ namespace BreakBirds
 
             return Result.Ok;
         }
+        */
 
         static void DoOperations(Operations op)
         {
